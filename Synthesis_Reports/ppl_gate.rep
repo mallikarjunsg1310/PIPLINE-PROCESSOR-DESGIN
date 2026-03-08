@@ -8,7 +8,4 @@
   Area mode:              timing library
 ============================================================
 
-     Instance      Module  Cell Count  Cell Area  Net Area   Total Area   Wireload  
-------------------------------------------------------------------------------------
-pipeline_processor                  0      0.000     0.000        0.000 <none> (D)  
-  (D) = wireload is default in technology library
+
